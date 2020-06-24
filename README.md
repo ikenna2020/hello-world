@@ -6,3 +6,5 @@ life is complex.
 
 Hope is a good thing.
 
+linux is fun.
+
